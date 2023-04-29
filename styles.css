@@ -1,0 +1,78 @@
+body{
+    max-width: 100%;
+    display: block;
+
+    display: flex;
+    justify-content:space-around;
+}
+.title-id{
+    position: absolute;
+    width: 500px;
+    height: 70px;
+    left: 7px;
+    top: 20px;
+    
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+    
+    color: #333333;
+    
+
+}
+#right-id{
+}
+#page-id{
+    width: 381px;
+height: 108px;
+left: 736px;
+top: 491px;
+
+font-family: 'Space Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+letter-spacing: -0.035em;
+}
+#back-id{
+    width: 150px;
+    height: 50px;
+left: 7px;
+top: 6px;
+
+font-family: 'Space Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 21px;
+border-radius: 3%;
+/* identical to box height */
+letter-spacing: -0.035em;
+text-transform: uppercase;
+background-color: black;
+color: #FFFFFF;
+font-family: Georgia, 'Times New Roman', Times, serif
+
+}
+#bad-id{
+        margin-top: 300px;
+        font-family: 'Space Mono';
+        left: 735px;
+        top: 265px;
+        width: 586px;
+        height: 190px;
+        font-weight: 70;
+        font-size: 64px;
+        line-height: 95px;
+
+}
+.pic-id{
+
+    margin-top: 100px;
+}
+
